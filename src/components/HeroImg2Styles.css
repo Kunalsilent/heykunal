@@ -33,7 +33,7 @@
 
     }
     @media screen and (max-width: 640px){
-        .hero-img h1{
-            font-size: 2rem;
+        p{
+            top: 23rem;
         }
     }

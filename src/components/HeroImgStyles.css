@@ -141,6 +141,7 @@ a:nth-child(2){
     animation: animate4 1s linear infinite;
     animation-delay: 0.75s;
 }
+
 @keyframes animate4{
     0%{
         bottom: -100%;
@@ -155,10 +156,15 @@ a:nth-child(2){
     } 
     .hero .content p { 
         font-size: 1.4rem;
+    
     }
     .content .btn{
         margin: 1rem 0.1rem;
         padding: 10px 15px ;
     }
+   
+  
+
+    
 
 }

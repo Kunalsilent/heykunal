@@ -10,7 +10,14 @@
    <img className="intro-img" src={IntroImg} alt="IntroImg"/>
    </div>
    <div className="content">
-   <p>HI, I'M A STUDENT</p>
+    <h1> </h1>
+   <h1> </h1>
+   <h2> </h2>
+   <h3> </h3>
+   <h4> </h4>
+   <h3> </h3>
+   <h1> </h1>
+   <p>HI, I'M  KUNAL</p>
    <h1> React Developer.</h1>
    <div>
     <Link to="/project" 
