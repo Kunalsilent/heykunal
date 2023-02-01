@@ -30,7 +30,7 @@
     <span></span>
     <span></span>
     <span></span> Contact  </Link>
-    <Link onClick={() =>window.open('https://drive.google.com/file/d/1S0IdtTItsdF5dpfQ_zH6B0cUu4eh7WfH/view?usp=drivesdk' )}
+    <Link onClick={() =>window.open('https://drive.google.com/file/d/1_haQHnD7iO9TXi7BO4h1NL9HMywWhL-N/view?usp=drivesdk' )}
     className=" a"> <span></span>
     <span></span>
     <span></span>
